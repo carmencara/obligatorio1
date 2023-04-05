@@ -1,0 +1,9 @@
+Planeta 1: 0.241239 años / Error relativo: 0.516211 %
+Planeta 2: 0.613544 años / Error relativo: 0.236798 %
+Planeta 3: 1.00096 años / Error relativo: 0.0957608 %
+Planeta 4: 1.88629 años / Error relativo: 0.334623 %
+Planeta 5: 11.9388 años / Error relativo: 0.664698 %
+Planeta 6: 28.7996 años / Error relativo: 2.24177 %
+Planeta 7: 82.9995 años / Error relativo: 1.2028 %
+Planeta 8: 159.495 años / Error relativo: 3.21304 %
+Planeta 9: 239.009 años / Error relativo: 3.59414 %
